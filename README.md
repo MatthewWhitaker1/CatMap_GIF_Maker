@@ -8,7 +8,7 @@ For example take the image given below:
 
 When iterated through Arnold's Cat Map 121 times (since this image has a period of 121):
 
-![pythonLogo.gif](https://github.com/MatthewWhitaker1/CatMap_GIF_Maker/blob/main/GIFs/pythonLogo.gif?raw=true)
+![pythonLogo.gif](https://github.com/MatthewWhitaker1/CatMap_GIF_Maker/blob/master/GIFs/pythonLogo.gif?raw=true)
 
 ## Installation
 
